@@ -1,4 +1,4 @@
-![](./images/logo.jpeg)
+<img src="./images/logo.jpeg" width="50%" height="50%">
 
 ## Welcome to Play my ganme
 
